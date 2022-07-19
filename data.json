@@ -1,0 +1,74 @@
+[
+  {
+    "id": "430c3dd5-19bb-402e-844e-a8e4887100c1",
+    "name": "Men's Leather Sneakers",
+    "image": "https://m.media-amazon.com/images/I/81oOLEnk3nL.jpg",
+    "price_string": "₹2,163₹2,163",
+    "price_symbol": "₹",
+    "price": 2163,
+    "quantity": 1
+  },
+  {
+    "id": "6b982951-8e7a-4fcb-9995-439d2752a5d0",
+    "name": "Men's Sneakers",
+    "image": "https://m.media-amazon.com/images/I/818ZbfaXqUL.jpg",
+    "price_string": "₹3,225₹3,225",
+    "price_symbol": "₹",
+    "price": 3225,
+    "quantity": 1
+  },
+  {
+    "id": "f7384bbc-50ae-4f02-b175-6914c5d28f21",
+    "name": "Men's G 40777cma Leather Sneaker",
+    "image": "https://m.media-amazon.com/images/I/61deZ+oW3yL.jpg",
+    "price_string": "₹3,116₹3,116",
+    "price_symbol": "₹",
+    "price": 3116,
+    "quantity": 1
+  },
+  {
+    "id": "99e6bac2-8d93-42a1-b329-490a2b608207",
+    "name": "Men's Gc 2919118 Leather Closed Shoe",
+    "image": "https://m.media-amazon.com/images/I/81bTkAbukbL.jpg",
+    "price_string": "₹2,457₹2,457",
+    "price_symbol": "₹",
+    "price": 2457,
+    "quantity": 1
+  },
+  {
+    "id": "5a8eb979-ca52-455a-9272-470a82e93639",
+    "name": "Mens Gc 3730120 Sneaker",
+    "image": "https://m.media-amazon.com/images/I/71S0kNQzSoL.jpg",
+    "price_string": "₹2,512₹2,512",
+    "price_symbol": "₹",
+    "price": 2512,
+    "quantity": 1
+  },
+  {
+    "id": "198d9f35-b692-45e5-b466-ed87dec18aca",
+    "name": "Men's OGC 3823121 Leather Sneaker",
+    "image": "https://m.media-amazon.com/images/I/71TEEYZqcQL.jpg",
+    "price_string": "₹1,946₹1,946",
+    "price_symbol": "₹",
+    "price": 1946,
+    "quantity": 1
+  },
+  {
+    "id": "3fcc2cf8-bbf5-48d5-94d8-1b2b13f75f6c",
+    "name": "Men's Khaki Casual Shoes GC 2656117 Camel",
+    "image": "https://m.media-amazon.com/images/I/81hIYxsRIFL.jpg",
+    "price_string": "₹2,446₹2,446",
+    "price_symbol": "₹",
+    "price": 2446,
+    "quantity": 1
+  },
+  {
+    "id": "90377c14-48fd-42be-899a-f2dace54c4dd",
+    "name": "Men's Gc 1868115 Leather Sneaker",
+    "image": "https://m.media-amazon.com/images/I/91OK6dK0GaL.jpg",
+    "price_string": "₹2,342₹2,342",
+    "price_symbol": "₹",
+    "price": 2342,
+    "quantity": 1
+  }
+]
